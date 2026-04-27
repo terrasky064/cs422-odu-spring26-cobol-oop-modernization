@@ -1,0 +1,7 @@
+pandas
+numpy
+scikit-learn
+sentence-transformers  # For realistic code embeddings (or fallback to TF-IDF)
+matplotlib
+seaborn
+jupyter
